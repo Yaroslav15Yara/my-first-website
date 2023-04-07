@@ -1,0 +1,156 @@
+.section1{
+background-color: #1F2937;
+flex-direction: column;
+padding: 2px 67px;
+margin: 0;
+}
+
+.HeaderLogo{
+color: white;
+font-size: 24px;
+font-weight: extra-bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+color: #1aa526;
+text-decoration: none;
+font-family: Arial, sans-serif;
+}
+
+.links {
+display: flex;
+gap: 12px;
+align-items: center;
+}
+
+.HeaderLink {
+display: flex;
+justify-content: space-between;
+padding: 24px 1px ;
+}
+
+.firsttext{
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+    flex-direction: column;
+}
+button.first {
+    font-family: Roboto, sans-serif;
+    border: none;
+    border-radius: 8px;
+    background: #088fce;
+    padding: 8px 20px;  
+    font-size: small;  
+}
+
+.first{
+color: white;
+font-size: 48px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text{
+font-size: 12px;
+color: rgb(136, 164, 180);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pictures1 {
+width: 200px;
+height: 200px ;
+padding: 12px;
+}
+
+.textphoto{
+display: flex;
+justify-content: space-between;
+gap: 48px;
+}
+
+.section2{
+background-color: bisque;
+padding: 50px 67px;
+}
+
+.headd{
+color: rgb(17, 132, 233);
+font-size: 24px;
+font-weight: extra-bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+
+.pictures2{
+width: auto;
+height: 100px ;
+}
+
+.word{
+display: flex;
+justify-content: space-between;
+padding: 20px 2px;}
+
+.chicagop,
+.coffep,
+.ukrainep,
+.warp
+{
+display: flex;
+flex-direction: column;
+gap: 12px;
+font-size: 15px;
+align-items: center;
+}
+
+
+.section3{
+background-color: rgb(132, 146, 158);
+padding: 50px 67px;
+}
+p.blockquote{
+text-align: center;
+font-size: large;
+}
+
+.blockquote cite {
+float: right;
+}
+
+
+
+
+
+
+.section4{
+display: flex;
+background-color: #09408d;
+justify-content: center  ;
+align-items: center;
+gap: 80px;
+margin: 400px 300px;
+border-radius: 8px;
+padding: 10px;
+margin: 10px 200px;
+}
+
+button.product {
+    font-family: Roboto, sans-serif;
+    border: none;
+    border-radius: 8px;
+    background: #088fce;
+    padding: 5px 10px;  
+    font-size: small;  
+    color: aliceblue;
+}
+p.singup{
+    color: azure;
+    font-size: 15px;
+}
+
+.bee{
+font-size: 24px;
+}
